@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "dependencies": {
+    "cookie": "^1.0.1",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^13.0.1"
+  }
+}
